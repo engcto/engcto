@@ -134,14 +134,6 @@ I specialize in transforming **business ideas into high-performance, revenue-gen
 
 ---
 
-## 🧬 Contribution Visualization
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/engcto/engcto/output/snake.svg"/>
-</p>
-
----
-
 ## 🤝 Engagement & Collaboration
 
 I’m open to:
