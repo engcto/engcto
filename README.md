@@ -83,8 +83,8 @@ I turn complex ideas into **production-ready, scalable products** — from MVP t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=engcto&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcto&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ I turn complex ideas into **production-ready, scalable products** — from MVP t
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=engcto&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ I turn complex ideas into **production-ready, scalable products** — from MVP t
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engcto&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ I turn complex ideas into **production-ready, scalable products** — from MVP t
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/engcto/engcto/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
