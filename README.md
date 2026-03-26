@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=260&section=header&text=Avinash%20Kumar%20Jha&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- PROFILE IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/engcto/engcto/profile.jpg" width="150" style="border-radius:50%; border: 3px solid #38bdf8;"/>
-</p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=700&lines=CTO+%7C+AI+SaaS+Architect;Building+Scalable+AI+Products;LLM+%7C+Automation+%7C+Cloud+Engineering;Turning+Ideas+into+Revenue+Generating+Systems"/>
