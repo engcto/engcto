@@ -5,7 +5,7 @@
 
 <!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/engcto/assets/main/profile.png" width="150" style="border-radius:50%; border: 3px solid #38bdf8;"/>
+  <img src="https://raw.githubusercontent.com/engcto/profile.jpg" width="150" style="border-radius:50%; border: 3px solid #38bdf8;"/>
 </p>
 
 <!-- TYPING ANIMATION -->
