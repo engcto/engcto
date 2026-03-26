@@ -1,166 +1,170 @@
-<!-- 🔥 Animated Banner -->
+<!-- ===================== HEADER (ENTERPRISE DARK BANNER) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:000000,100:1a1a1a&height=260&section=header&text=Avinash%20Kumar%20Jha&fontSize=42&fontColor=00f7ff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=260&section=header&text=Avinash%20Kumar%20Jha&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- 👤 Profile Image -->
+<!-- PROFILE IMAGE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/assets/main/profile.png" width="160" style="border-radius:50%; border: 3px solid #00f7ff;"/>
+  <img src="https://raw.githubusercontent.com/engcto/assets/main/profile.png" width="150" style="border-radius:50%; border: 3px solid #38bdf8;"/>
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=CTO+%7C+AI+SaaS+Architect;Full+Stack+Engineer;LLM+%26+Automation+Expert;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=700&lines=CTO+%7C+AI+SaaS+Architect;Building+Scalable+AI+Products;LLM+%7C+Automation+%7C+Cloud+Engineering;Turning+Ideas+into+Revenue+Generating+Systems"/>
 </p>
 
-<h2 align="center">🚀 CTO | AI SaaS Architect | Full Stack Engineer</h2>
+<h2 align="center">AI SaaS Architect • Full Stack Engineer • Tech Leader</h2>
 
-<!-- 👀 Visitor Counter -->
+<!-- VISITOR + PROFILE STATS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=engcto&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+  <img src="https://visitcount.itsvg.in/api?id=engcto&icon=3&color=12"/>
 </p>
 
-<!-- 🔗 Social Links -->
+<!-- SOCIAL AUTHORITY -->
 <p align="center">
   <a href="https://www.linkedin.com/in/avijhaofficial/">
-    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Jha-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:avinashjha0312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Business_Inquiries-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
-  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-CTO-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Experience-11%2B%20Years-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current%20Role-CTO-6366f1?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💡 About Me
+## 🧭 Executive Summary
 
-🔥 CTO at **Advantage AI Engineering Pvt. Ltd.**  
-🧠 Building **AI-powered SaaS platforms, LLM systems & automation tools**  
-⚡ 11+ years of experience in **Full Stack Development & Scalable Architecture**  
+Technology leader with **11+ years of experience** architecting and delivering **scalable SaaS platforms, AI systems, and enterprise applications**.
 
-I turn complex ideas into **production-ready, scalable products** — from MVP to enterprise SaaS.
+Currently leading **AI product innovation** at *Advantage AI Engineering Pvt. Ltd.*, focusing on:
+- Large Language Models (LLMs)
+- AI automation systems
+- Cloud-native SaaS platforms
+
+I specialize in transforming **business ideas into high-performance, revenue-generating products**.
 
 ---
 
-## 📊 SaaS & AI Metrics
+## 📊 SaaS & Product Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Revenue-$1K+-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clients-10+-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Requests-1M+-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Revenue-$1K+-16a34a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clients-10+-2563eb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Requests-1M+-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-059669?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Models-Qwen%20%7C%20Llama-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deployment-AWS%20Cloud-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Architecture-Microservices-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-Qwen%20%7C%20Llama-f59e0b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-0ea5e9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-Microservices-ef4444?style=flat-square"/>
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🚀 Core Expertise
 
-- 🚀 Architect AI SaaS (LLMs, agents, automation)
-- ⚙️ Backend Systems (Laravel, Node.js, FastAPI)
-- 🎨 Modern Frontend (React, Vue, Tailwind)
-- ☁️ Cloud & DevOps (AWS, CI/CD, Docker)
-- 📈 Performance Optimization & Scaling
-- 👨‍💻 Engineering Leadership & Product Strategy
+- **AI Systems & LLM Integration** (Qwen, Llama, Ollama)
+- **SaaS Architecture & Product Engineering**
+- **Backend Systems** (Laravel, Node.js, FastAPI, .NET)
+- **Frontend Engineering** (React, Vue, Tailwind)
+- **Cloud & DevOps** (AWS, CI/CD, Docker)
+- **Performance Optimization & Scalability**
+- **Engineering Leadership & Delivery Management**
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Selected Work
 
-### 🤖 AI Coding Platform
-- Local-first AI coding tool using LLMs (Qwen, Llama via Ollama)
-- Real-time streaming + prompt enhancement  
+### 🔹 AI Coding Platform
+- Local-first LLM-powered development environment  
+- Real-time streaming, prompt enhancement, token analytics  
 🔗 https://coder.advantageaieng.com/
 
-### 🌍 AI Translation SaaS
-- Enterprise-grade translation platform (mBART-50)
-- Subscription, RBAC, multi-format processing
+### 🔹 Enterprise AI Translation Platform
+- Built with mBART-50 model  
+- Subscription-based SaaS with RBAC & automation  
 
-### 📊 Diagnostic Platform  
-🔗 https://app.diagnostic.ly
+### 🔹 Diagnostic Platform  
+🔗 https://app.diagnostic.ly  
 
-### 💰 Crypto Sportsbook  
-🔗 https://www.betkudos.com/
+### 🔹 Crypto Sportsbook Platform  
+🔗 https://www.betkudos.com  
 
 ---
 
-## 🛠 Tech Stack
+## 🧱 Technology Stack
 
-### 💻 Languages
+**Languages**  
 `PHP` `JavaScript` `TypeScript` `Python` `C#`
 
-### ⚙️ Backend
-`Laravel` `Node.js` `FastAPI` `.NET` `CodeIgniter`
-
-### 🎨 Frontend
+**Frontend**  
 `React` `Vue` `Angular` `Tailwind`
 
-### 🧠 AI/ML
-`LLMs` `Prompt Engineering` `AI Agents` `Automation`
+**Backend**  
+`Laravel` `Node.js` `FastAPI` `.NET`
 
-### 🗄 Databases
+**AI / ML**  
+`LLMs` `Prompt Engineering` `AI Agents`
+
+**Databases**  
 `MySQL` `PostgreSQL` `MongoDB`
 
-### ☁️ DevOps
-`AWS` `GCP` `Docker` `CI/CD` `Nginx`
+**Infrastructure**  
+`AWS` `Docker` `CI/CD` `Nginx`
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=engcto&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcto&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=engcto&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engcto&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 Contribution Graph
+## 🧬 Contribution Visualization
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/engcto/engcto/output/snake.svg"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🤝 Engagement & Collaboration
 
+I’m open to:
+- AI SaaS product development
+- CTO consulting & architecture design
+- Scaling existing platforms
+- High-performance system optimization
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/avijhaofficial/
+- Email: avinashjha0312@gmail.com
+
+---
+
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I don’t just write code — I build **systems that scale businesses** 🚀
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/avijhaofficial/
-- 📧 Email: avinashjha0312@gmail.com
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:000000,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=120&section=footer"/>
 </p>
