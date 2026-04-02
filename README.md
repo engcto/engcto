@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=700&lines=CTO+%7C+AI+SaaS+Architect;Building+Scalable+AI+Products;LLM+%7C+Automation+%7C+Cloud+Engineering;Turning+Ideas+into+Revenue+Generating+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=38BDF8&center=true&vCenter=true&width=700&lines=Technical+Delivery+Manager+%7C+AI+SaaS+Architect;Building+Scalable+AI+Products;LLM+%7C+Automation+%7C+Cloud+Engineering;Turning+Ideas+into+Revenue+Generating+Systems"/>
 </p>
 
 <h2 align="center">AI SaaS Architect • Full Stack Engineer • Tech Leader</h2>
@@ -138,7 +138,7 @@ I specialize in transforming **business ideas into high-performance, revenue-gen
 
 I’m open to:
 - AI SaaS product development
-- CTO consulting & architecture design
+- Consulting & Architecture Design
 - Scaling existing platforms
 - High-performance system optimization
 
