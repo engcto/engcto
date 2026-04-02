@@ -139,12 +139,6 @@ I specialize in transforming **business ideas into high-performance, revenue-gen
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=engcto&theme=github-dark&hide_border=true"/>
 </p>
-
-<p align="center">
-  <!-- Full Stats (includes commits, PRs, issues) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=engcto&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-</p>
-
 ---
 
 ## 🤝 Engagement & Collaboration
