@@ -113,21 +113,6 @@ I specialize in transforming **business ideas into high-performance, revenue-gen
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engcto&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcto&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=engcto&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
@@ -139,6 +124,7 @@ I specialize in transforming **business ideas into high-performance, revenue-gen
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=engcto&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
 ## 🤝 Engagement & Collaboration
