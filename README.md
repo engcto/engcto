@@ -140,7 +140,7 @@ I’m open to:
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/avijhaofficial/
-- Email: avinashjha0312@gmail.com
+- Email: cto@advantageaieng.com
 
 ---
 
