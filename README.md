@@ -112,15 +112,6 @@ I'm **Avinash Kumar Jha**, **CTO** at [**Advantage AI Engineering**](https://adv
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=engcto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=engcto&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engcto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engcto&theme=tokyo-night&hide_border=true&area=true&height=280&color=38bdf8&line=38bdf8&point=1e293b"/>
 </p>
 
