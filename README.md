@@ -59,7 +59,7 @@ I'm **Avinash Kumar Jha**, **CTO** at [**Advantage AI Engineering**](https://adv
 ## 📊 Impact at a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Revenue_Generated-$1K+-16a34a?style=for-the-badge&logo=chartdotjs"/>
+  <img src="https://img.shields.io/badge/Revenue_Generated-$100K+-16a34a?style=for-the-badge&logo=chartdotjs"/>
   <img src="https://img.shields.io/badge/Clients_Served-10+-2563eb?style=for-the-badge&logo=handshake"/>
   <img src="https://img.shields.io/badge/AI_Requests_Processed-1M+-7c3aed?style=for-the-badge&logo=openai"/>
   <img src="https://img.shields.io/badge/Platform_Uptime-99.9%25-059669?style=for-the-badge&logo=statuspage"/>
